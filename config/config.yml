@@ -1,0 +1,4 @@
+accessions:
+  ['JSXD01000136.1','BCST01000018.1','RMBU01000034.1',RMBU01000030.1,'JRWY01000142.1']
+samples:
+  ["genes/cbl.txt","genes/fnr.txt"]

@@ -1,0 +1,14 @@
+name: test1
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - bioconda::snakemake-minimal =5.4.5
+  - biopython =1.76
+  - trimal =1.4.1
+  - emboss =2.2.3
+  - prank =v.170427
+  - pandas =1.0.3
+  - bioawk =1.0
+  - r=3.6.3
